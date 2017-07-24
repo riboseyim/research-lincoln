@@ -1,12 +1,12 @@
 # 深度解读《Lincoln》
 
-#### Biographer:[Doris Kearns Goodwin](https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin)
+**Biographer:[Doris Kearns Goodwin](https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin)**
 - 《Team of Rivals: The Political Genius of Abraham Lincoln》
 
-#### ScreenWriter:[东尼·库许纳（Tony Kushner）](https://zh.wikipedia.org/wiki/%E6%9D%B1%E5%B0%BC%C2%B7%E5%BA%AB%E8%A8%B1%E7%B4%8D)
+**ScreenWriter:[东尼·库许纳（Tony Kushner）](https://zh.wikipedia.org/wiki/%E6%9D%B1%E5%B0%BC%C2%B7%E5%BA%AB%E8%A8%B1%E7%B4%8D)**
 Final Shooting Script,December 20, 2011
 
-#### Sorting：[RiboseYim](https://riboseyim.github.io)
+**Sorting：[RiboseYim](https://riboseyim.github.io)**
 [简书主页](http://www.jianshu.com/u/8cc1dba4bc96)
 [知乎专栏](https://www.zhihu.com/people/riboseyim)
 
