@@ -27,7 +27,6 @@ Final Shooting Script,December 20, 2011
 * [音乐概要](chapter/music/MusicSummary.md)
 * Chapter 4:Appendix
 * [附录: 电影《Lincoln》人物列表](chapter/screenplay/LIST_OF_Characters.md)
-* [附录:剧本常识](chapter/screenplay/Base.md)
 
 ## Community
 
