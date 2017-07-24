@@ -28,8 +28,10 @@ Final Shooting Script,December 20, 2011
 https://www.gitbook.com/book/riboseyim/lincoln/details
 
 <hr>
-更多精彩内容请扫码关注公众号,[RiboseYim's Blog:riboseyim.github.io](https://riboseyim.github.io?product=ebook&id=roadofwriter)
+更多精彩内容关注公众号,[RiboseYim's Blog](https://riboseyim.github.io?product=ebook&id=roadofwriter)
+
 <hr>
+
 ![微信公众号@睿哥杂货铺](http://o8m8ngokc.bkt.clouddn.com/ID_RiboseYim_201706.png)
 
 ## License
