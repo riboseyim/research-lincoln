@@ -1,29 +1,33 @@
 # ScreenPlay 《Lincoln》
 
-## Biographer:[Doris Kearns Goodwin](https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin)
+#### Biographer:[Doris Kearns Goodwin](https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin)
 - 《Team of Rivals: The Political Genius of Abraham Lincoln》
 
-## ScreenWriter:[东尼·库许纳（Tony Kushner）](https://zh.wikipedia.org/wiki/%E6%9D%B1%E5%B0%BC%C2%B7%E5%BA%AB%E8%A8%B1%E7%B4%8D)
+#### ScreenWriter:[东尼·库许纳（Tony Kushner）](https://zh.wikipedia.org/wiki/%E6%9D%B1%E5%B0%BC%C2%B7%E5%BA%AB%E8%A8%B1%E7%B4%8D)
 Final Shooting Script,December 20, 2011
 
 #### Sorting：[RiboseYim](https://riboseyim.github.io)
 [简书主页](http://www.jianshu.com/u/8cc1dba4bc96)
 [知乎专栏](https://www.zhihu.com/people/riboseyim)
 
-#### 奖项
-- 第18届广播影评人协会奖:最佳剧本
-- 第70届金球奖:最佳编剧提名：托尼·库什纳
-- 第66届英国电影学院奖:最佳改编剧本提名
-- 第85届奥斯卡金像奖:最佳改编剧本提名
-
 ## 章节
-* [EXT. BATTLEFIELD, JENKINS' FERRY, ARKANSAS - DAY](chapter/1_EXT_BATTLEFIELD.md)
-* [EXT. PARADE GROUNDS ADJACENT TO THE WASHINGTON NAVY YARD, ANACOSTIA RIVER - NIGHT](chapter/2_EXT_PARADE_GROUNDS.md)
-* [EXT. A SHIP AT SEA - NIGHT](3_EXT_A_SHIP_AT_SEA.md)
-* [INT. MARY'S BOUDOIR, SECOND FLOOR OF THE WHITE HOUSE - NIGHT](4_INT_MARY'S_BOUDOIR,.md)
-* [INT. HALLWAY, LEAVING MARY'S BOUDOIR - NIGHT](5_INT_HALLWAY.md)
-* [INT. LINCOLN'S OFFICE, SECOND FLOOR, WHITE HOUSE - NIGHT](6_INT_LINCOLN'S OFFICE.md)
-* [未整理](chapter/All.md)
+* Chapter 1: BackGround
+* [灵魂解码《林肯》](chapter/background/Film-Lincoln-1.md)
+* [斯皮尔伯格的林肯情怀](chapter/background/Lincoln-Spielberg.md)
+* Chapter 2: ScreenPlay
+* [剧本概要](chapter/screenplay/ScreenplaySummary.md)
+* [EXT. BATTLEFIELD, JENKINS' FERRY, ARKANSAS - DAY](chapter/screenplay/1_EXT_BATTLEFIELD.md)
+* [EXT. PARADE GROUNDS ADJACENT TO THE WASHINGTON NAVY YARD, ANACOSTIA RIVER - NIGHT](chapter/screenplay/2_EXT_PARADE_GROUNDS.md)
+* [EXT. A SHIP AT SEA - NIGHT](chapter/screenplay/3_EXT_A_SHIP_AT_SEA.md)
+* [INT. MARY'S BOUDOIR, SECOND FLOOR OF THE WHITE HOUSE - NIGHT](chapter/screenplay/4_INT_MARY'S_BOUDOIR,.md)
+* [INT. HALLWAY, LEAVING MARY'S BOUDOIR - NIGHT](chapter/screenplay/5_INT_HALLWAY.md)
+* [INT. LINCOLN'S OFFICE, SECOND FLOOR, WHITE HOUSE - NIGHT](chapter/screenplay/6_INT_LINCOLN'S OFFICE.md)
+* [剧本：未整理章节](chapter/screenplay/All.md)
+Chapter 3:Music
+* [音乐概要](chapter/music/MusicSummary.md)
+Chapter 4:Appendix
+* [附录: 电影《Lincoln》人物列表](chapter/screenplay/LIST_OF_Characters.md)
+* [附录:剧本常识](chapter/screenplay/Base.md)
 
 ## Community
 
