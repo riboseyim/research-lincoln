@@ -1,4 +1,4 @@
-# ScreenPlay 《Lincoln》
+# 深度解读《Lincoln》
 
 #### Biographer:[Doris Kearns Goodwin](https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin)
 - 《Team of Rivals: The Political Genius of Abraham Lincoln》
