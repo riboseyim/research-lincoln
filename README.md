@@ -11,10 +11,19 @@ Final Shooting Script,December 20, 2011
 [知乎专栏](https://www.zhihu.com/people/riboseyim)
 
 #### 奖项
-第18届广播影评人协会奖:最佳剧本
-第70届金球奖:最佳编剧提名：托尼·库什纳
-第66届英国电影学院奖:最佳改编剧本提名
-第85届奥斯卡金像奖:最佳改编剧本提名
+- 第18届广播影评人协会奖:最佳剧本
+- 第70届金球奖:最佳编剧提名：托尼·库什纳
+- 第66届英国电影学院奖:最佳改编剧本提名
+- 第85届奥斯卡金像奖:最佳改编剧本提名
+
+## 章节
+* [EXT. BATTLEFIELD, JENKINS' FERRY, ARKANSAS - DAY](chapter/1_EXT_BATTLEFIELD.md)
+* [EXT. PARADE GROUNDS ADJACENT TO THE WASHINGTON NAVY YARD, ANACOSTIA RIVER - NIGHT](chapter/2_EXT_PARADE_GROUNDS.md)
+* [EXT. A SHIP AT SEA - NIGHT](3_EXT_A_SHIP_AT_SEA.md)
+* [INT. MARY'S BOUDOIR, SECOND FLOOR OF THE WHITE HOUSE - NIGHT](4_INT_MARY'S_BOUDOIR,.md)
+* [INT. HALLWAY, LEAVING MARY'S BOUDOIR - NIGHT](5_INT_HALLWAY.md)
+* [INT. LINCOLN'S OFFICE, SECOND FLOOR, WHITE HOUSE - NIGHT](6_INT_LINCOLN'S OFFICE.md)
+* [未整理](chapter/All.md)
 
 ## Community
 
