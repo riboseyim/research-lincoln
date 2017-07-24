@@ -1,0 +1,8 @@
+
+cd /Users/yanrui/project/screenplay-lincoln
+
+git add .
+
+git commit -m "auto commit"
+
+git push origin master
