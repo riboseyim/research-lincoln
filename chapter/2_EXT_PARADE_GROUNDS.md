@@ -165,8 +165,3 @@ Then he stops, turns back, faces Lincoln, who watches him. A beat, and then, in 
 Clark salutes Lincoln again, turns again and walks away.Lincoln watches him go. As he walks into the fog, Clark continues reciting in a powerful voice: IRA CLARK (CONT'D)
 " - That this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth."
 Lincoln watches Clark until the fog's swallowed him up.
-
-			  TITLE:
-## JANUARY, 1865
-#### TWO MONTHS HAVE PASSED SINCE ABRAHAM LINCOLN'S RE-ELECTION
-#### THE AMERICAN CIVIL WAR IS NOW IN ITS FOURTH YEAR

@@ -1,3 +1,7 @@
+## TITLE: JANUARY, 1865
+#### TWO MONTHS HAVE PASSED SINCE ABRAHAM LINCOLN'S RE-ELECTION
+#### THE AMERICAN CIVIL WAR IS NOW IN ITS FOURTH YEAR
+
 # EXT. A SHIP AT SEA - NIGHT
 
 A huge, dark, strange-looking steamship, part wood and part
