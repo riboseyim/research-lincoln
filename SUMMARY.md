@@ -11,8 +11,8 @@
 * [INT. HALLWAY, LEAVING MARY'S BOUDOIR - NIGHT](chapter/screenplay/5_INT_HALLWAY.md)
 * [INT. LINCOLN'S OFFICE, SECOND FLOOR, WHITE HOUSE - NIGHT](chapter/screenplay/6_INT_LINCOLN'S OFFICE.md)
 * [剧本：未整理章节](chapter/screenplay/All.md)
-Chapter 3:Music
+* Chapter 3:Music
 * [音乐概要](chapter/music/MusicSummary.md)
-Chapter 4:Appendix
+* Chapter 4:Appendix
 * [附录: 电影《Lincoln》人物列表](chapter/screenplay/LIST_OF_Characters.md)
 * [附录:剧本常识](chapter/screenplay/Base.md)
