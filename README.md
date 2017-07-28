@@ -29,7 +29,7 @@ Final Shooting Script,December 20, 2011
 * [附录: 电影《Lincoln》人物列表](chapter/screenplay/LIST_OF_Characters.md)
 
 ## Community
-
+#### QQ群：649543499
 [简书专题：《经济学人翻译社》](http://www.jianshu.com/c/f2ea0605db4b)
 
 **小密圈：**
