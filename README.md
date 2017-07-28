@@ -11,10 +11,10 @@ Final Shooting Script,December 20, 2011
 [知乎专栏](https://www.zhihu.com/people/riboseyim)
 
 ## 章节
-* Chapter 1: BackGround
+* [Chapter 1: BackGround]()
 * [灵魂解码《林肯》](chapter/background/Film-Lincoln-1.md)
 * [斯皮尔伯格的林肯情怀](chapter/background/Lincoln-Spielberg.md)
-* Chapter 2: ScreenPlay
+* [Chapter 2: ScreenPlay]()
 * [剧本概要](chapter/screenplay/ScreenplaySummary.md)
 * [EXT. BATTLEFIELD, JENKINS' FERRY, ARKANSAS - DAY](chapter/screenplay/1_EXT_BATTLEFIELD.md)
 * [EXT. PARADE GROUNDS ADJACENT TO THE WASHINGTON NAVY YARD, ANACOSTIA RIVER - NIGHT](chapter/screenplay/2_EXT_PARADE_GROUNDS.md)
@@ -23,16 +23,16 @@ Final Shooting Script,December 20, 2011
 * [INT. HALLWAY, LEAVING MARY'S BOUDOIR - NIGHT](chapter/screenplay/5_INT_HALLWAY.md)
 * [INT. LINCOLN'S OFFICE, SECOND FLOOR, WHITE HOUSE - NIGHT](chapter/screenplay/6_INT_LINCOLN'S OFFICE.md)
 * [剧本：未整理章节](chapter/screenplay/All.md)
-* Chapter 3:Music
+* [Chapter 3:Music]()
 * [音乐概要](chapter/music/MusicSummary.md)
-* Chapter 4:Appendix
+* [Chapter 4:Appendix]()
 * [附录: 电影《Lincoln》人物列表](chapter/screenplay/LIST_OF_Characters.md)
 
 ## Community
-#### QQ群：649543499
-[简书专题：《经济学人翻译社》](http://www.jianshu.com/c/f2ea0605db4b)
 
-**小密圈：**
+#### QQ群：649543499
+#### [简书专题：《经济学人翻译社》](http://www.jianshu.com/c/f2ea0605db4b)
+#### 小密圈
 ![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_economist_small.png)
 
 ### Latest Version
