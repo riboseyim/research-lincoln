@@ -108,7 +108,7 @@
 * [INT. THE BEDROOM IN PETERSON'S BOARDING HOUSE - MORNING](chapter/screenplay/101_INT_THE_BEDROOM_IN_PETERSONS_BOARDING_HOUSE_MORNING.md)
 * [EXT. THE EAST PORTICO OF THE CAPITOL - NOON](chapter/screenplay/102_EXT_THE_EAST_PORTICO_OF_THE_CAPITOL_NOON.md)
 * [剧本：未整理章节](chapter/screenplay/All.md)
-* [Chapter 3:Music](chapter/screenplay/)
+* [Chapter 3:Music]()
 * [音乐概要](chapter/screenplay/chapter/music/MusicSummary.md)
 * [Chapter 4:Appendix](chapter/screenplay/)
 * [附录: 电影《Lincoln》人物列表](chapter/screenplay/LIST_OF_Characters.md)
