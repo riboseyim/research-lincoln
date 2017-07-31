@@ -1,7 +1,13 @@
-# ScreenPlay
+# Film ScreenPlay 《Lincoln》
 
 ## Summary
 - 剧本获奖情况
+
+**Biographer:[Doris Kearns Goodwin](https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin)**
+- 《Team of Rivals: The Political Genius of Abraham Lincoln》
+
+**ScreenWriter:[东尼·库许纳（Tony Kushner）](https://zh.wikipedia.org/wiki/%E6%9D%B1%E5%B0%BC%C2%B7%E5%BA%AB%E8%A8%B1%E7%B4%8D)**
+Final Shooting Script,December 20, 2011
 
 #### 剧本获奖情况
 - 第18届广播影评人协会奖:最佳剧本
