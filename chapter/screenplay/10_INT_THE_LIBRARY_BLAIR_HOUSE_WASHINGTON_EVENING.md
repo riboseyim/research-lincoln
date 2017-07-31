@@ -4,21 +4,12 @@ Lincoln's perched on the edge of an ottoman.
 20.
 
 			   LINCOLN
-If the Blairs tell `em to, no
-Republican will balk at voting for
-the amendment.
+If the Blairs tell em to, no Republican will balk at voting for the amendment.
 
-The room is baronial. PRESTON BLAIR, patriarch of his wealthy
-and powerful family, 72 years old, sits facing his son,
-MONTGOMERY BLAIR, 50, whip-thin. A fire blazes in a massive
-fireplace behind Monty. Preston's handsome, elegant daughter,
-ELIZABETH BLAIR LEE, 45, sits across from Monty, next to Tad,
-who's wearing a Union infantryman's uniform, a real musket by
-his side.
+The room is baronial. PRESTON BLAIR, patriarch of his wealthy and powerful family, 72 years old, sits facing his son, MONTGOMERY BLAIR, 50, whip-thin. A fire blazes in a massive fireplace behind Monty. Preston's handsome, elegant daughter, ELIZABETH BLAIR LEE, 45, sits across from Monty, next to Tad, who's wearing a Union infantryman's uniform, a real musket by his side.
 
 			   MONTGOMERY BLAIR
-No conservative Republican is what
-you mean -
+No conservative Republican is what you mean -
 
 			   PRESTON BLAIR
 All Republicans ought to be
