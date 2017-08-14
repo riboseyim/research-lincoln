@@ -30,7 +30,7 @@
 #### [简书专题：《经济学人翻译社》](http://www.jianshu.com/c/f2ea0605db4b)
 
 #### 小密圈
-![小密圈@林肯研究会](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_lincoln_small.png)
+![小密圈@林肯研究会](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_lincoln_300.png)
 
 ### Latest Version
 
