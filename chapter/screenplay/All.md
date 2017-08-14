@@ -1,6 +1,6 @@
 
 
-INT. LINCOLN'S OFFICE, WHITE HOUSE - EARLY EVENING
+# INT. LINCOLN'S OFFICE, WHITE HOUSE - EARLY EVENING
 
 Seward stands, stunned. Lincoln sits at the cabinet table.
 Nicolay is gone.
