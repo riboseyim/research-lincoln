@@ -12,8 +12,3 @@
 - Daniel Gingrich [horn]
 -  Randy Kerber [piano]
 - Christopher Martin [trumpet]
--  David McGill [bassoon]
-- Stephen Williamson [clarinet]
-- Chicago Symphony Chorus
-- Duain Wolfe [director]
-- John Williams [conductor]
