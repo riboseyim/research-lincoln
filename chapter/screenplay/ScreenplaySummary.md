@@ -15,5 +15,8 @@ Final Shooting Script,December 20, 2011
 - 第66届英国电影学院奖:最佳改编剧本提名
 - 第85届奥斯卡金像奖:最佳改编剧本提名
 
+## source
+http://www.imsdb.com/scripts/Lincoln.html
+
 ## WordBook
 - [John August:Int. and Ext.](https://johnaugust.com/2003/int-and-ext)
