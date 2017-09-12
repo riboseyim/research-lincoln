@@ -8,7 +8,7 @@
 
 ## Team:Chicago Symphony Orchestra
 
-- Robert Chen [violin]
-- Daniel Gingrich [horn]
--  Randy Kerber [piano]
-- Christopher Martin [trumpet]
+- Robert Chen violin
+- Daniel Gingrich horn
+-  Randy Kerber pian
+- Christopher Martin trumpet
