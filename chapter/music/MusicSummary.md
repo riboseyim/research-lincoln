@@ -8,12 +8,12 @@
 
 ## Team:Chicago Symphony Orchestra
 
-- Robert Chen(violin) 
-- Daniel Gingrich(horn)
--  Randy Kerber(piano) 
-- Christopher Martin(trumpet)
--  David McGill(bassoon) 
-- Stephen Williamson(clarinet)
+- Robert Chen [violin]
+- Daniel Gingrich [horn]
+-  Randy Kerber [piano]
+- Christopher Martin [trumpet]
+-  David McGill [bassoon]
+- Stephen Williamson [clarinet]
 - Chicago Symphony Chorus
-- Duain Wolfe(director) 
-- John Williams(conductor)
+- Duain Wolfe [director]
+- John Williams [conductor]
