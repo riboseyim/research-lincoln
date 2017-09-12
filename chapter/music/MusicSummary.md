@@ -8,14 +8,14 @@
 
 ## Team:Chicago Symphony Orchestra
 
-1. Robert Chen (violin) 
+1. Robert Chen (violin)
 2. Daniel Gingrich (horn)
- 3. Randy Kerber (piano) 
+3. Randy Kerber (piano)
 4. Christopher Martin (trumpet)
- 5. David McGill (bassoon) 
+5. David McGill (bassoon)
 6. Stephen Williamson (clarinet)
 7. Chicago Symphony Chorus
-8. Duain Wolfe (director) 
+8. Duain Wolfe (director)
 9. John Williams (conductor)
 
 ## About Lincoln
