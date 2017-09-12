@@ -1,8 +1,8 @@
 # Lincoln Research
 
-**Sorting：[RiboseYim](https://riboseyim.github.io)**
-[简书主页](http://www.jianshu.com/u/8cc1dba4bc96)
-[知乎专栏](https://www.zhihu.com/people/riboseyim)
+#### Author：[RiboseYim](https://riboseyim.github.io)
+
+- [简书主页](http://www.jianshu.com/u/8cc1dba4bc96) | [知乎专栏](https://www.zhihu.com/people/riboseyim)
 
 ## 章节
 * [Chapter 1: BackGround]()
@@ -10,13 +10,7 @@
 * [斯皮尔伯格的林肯情怀](chapter/background/Lincoln-Spielberg.md)
 * [Chapter 2: ScreenPlay]()
 * [剧本概要](chapter/screenplay/ScreenplaySummary.md)
-* [EXT. BATTLEFIELD, JENKINS' FERRY, ARKANSAS - DAY](chapter/screenplay/1_EXT_BATTLEFIELD.md)
-* [EXT. PARADE GROUNDS ADJACENT TO THE WASHINGTON NAVY YARD, ANACOSTIA RIVER - NIGHT](chapter/screenplay/2_EXT_PARADE_GROUNDS.md)
-* [EXT. A SHIP AT SEA - NIGHT](chapter/screenplay/3_EXT_A_SHIP_AT_SEA.md)
-* [INT. MARY'S BOUDOIR, SECOND FLOOR OF THE WHITE HOUSE - NIGHT](chapter/screenplay/4_INT_MARY'S_BOUDOIR,.md)
-* [INT. HALLWAY, LEAVING MARY'S BOUDOIR - NIGHT](chapter/screenplay/5_INT_HALLWAY.md)
-* [INT. LINCOLN'S OFFICE, SECOND FLOOR, WHITE HOUSE - NIGHT](chapter/screenplay/6_INT_LINCOLN'S OFFICE.md)
-* [剧本：未整理章节](chapter/screenplay/All.md)
+* [附录: 电影《Lincoln》人物列表](chapter/screenplay/LIST_OF_Characters.md)
 * [Chapter 3:Music]()
 * [音乐概要](chapter/music/MusicSummary.md)
 * [Chapter 4:Appendix]()
@@ -24,12 +18,10 @@
 
 ## Community
 
-#### QQ群：林肯研究会
-#### 群号：457396900
+- QQ群(457396900)：林肯研究会
+- [简书专题：《经济学人翻译社》](http://www.jianshu.com/c/f2ea0605db4b)
 
-#### [简书专题：《经济学人翻译社》](http://www.jianshu.com/c/f2ea0605db4b)
-
-#### 小密圈
+- 小密圈
 ![小密圈@林肯研究会](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_lincoln_300.png)
 
 ### Latest Version
@@ -37,7 +29,7 @@
 https://www.gitbook.com/book/riboseyim/lincoln/details
 
 <hr>
-更多精彩内容关注公众号,[RiboseYim's Blog](https://riboseyim.github.io?product=ebook&id=roadofwriter)
+更多精彩内容关注公众号,[RiboseYim's Blog](https://riboseyim.github.io?product=ebook&id=lincoln)
 
 <hr>
 
