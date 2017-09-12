@@ -9,14 +9,14 @@
 ## Team:Chicago Symphony Orchestra
 
 1. Robert Chen (violin) 
-- Daniel Gingrich (horn)
- - Randy Kerber (piano) 
-- Christopher Martin (trumpet)
- - David McGill (bassoon) 
-- Stephen Williamson (clarinet)
-- Chicago Symphony Chorus
-- Duain Wolfe (director) 
-- John Williams (conductor)
+2. Daniel Gingrich (horn)
+ 3. Randy Kerber (piano) 
+4. Christopher Martin (trumpet)
+ 5. David McGill (bassoon) 
+6. Stephen Williamson (clarinet)
+7. Chicago Symphony Chorus
+8. Duain Wolfe (director) 
+9. John Williams (conductor)
 
 ## About Lincoln
 Based on Doris Kearns Goodwin’s best-selling biography, Team of Rivals: The Political Genius of Abraham Lincoln, Steven Spielberg directs Lincoln, a revealing drama that focuses on the 16th President’s tumultuous final months in office. In a nation divided by war and the strong winds of change, Lincoln pursues a course of action designed to end the war, unite the country and abolish slavery. With the moral courage and fierce determination to succeed, his choices during this critical moment will change the fate of generations to come. Starring Academy Award® winners Daniel Day-Lewis, Sally Field and Tommy Lee Jones along with Joseph Gordon-Levitt (Inception) and David Strathairn (The Bourne Ultimatum).
