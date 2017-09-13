@@ -1,6 +1,6 @@
 # EXT. OUTSIDE THE TREASURY DEPARTMENT, WASHINGTON - MORNING
 
-A new flagpole is being dedicated. Lincoln, in a black overcoat and his stovepipe hat, and Treasury Secretary WILLIAM FESSENDEN, 59, stand by the pole. They face an audience of officials, clerks, dignitaries, wives, soldiers. A Marine band finishes a jaunty instrumental rendition of "We Are Coming Father Abra'am."
+A new flagpole is being dedicated. Lincoln, in a black overcoat and his stovepipe hat, and **Treasury Secretary WILLIAM FESSENDEN**, 59, stand by the pole. They face an audience of officials, clerks, dignitaries, wives, soldiers. A Marine band finishes a jaunty instrumental rendition of "We Are Coming Father Abra'am."
 
 Two soldiers fasten a flag to the halyards. Lincoln moves into place; as the crowd applauds, he takes a sheet of paper from inside his hat and glances at it. Then he looks up.
 

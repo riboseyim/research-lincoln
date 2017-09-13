@@ -1,7 +1,7 @@
 # INT. THE HOUSE CHAMBER - DAY
 
-One representative's reading a paper with the headline: THE
-FALLEN AT WILMINGTON, followed by hundreds of names.
+One representative's reading a paper with the headline: **THE
+FALLEN AT WILMINGTON**, followed by hundreds of names.
 
 Pendleton and Wood are conferring.
 
@@ -12,30 +12,18 @@ Heavy losses.
 And more to come.
 
 			   FERNANDO WOOD
-Sours the national mood. That might
-suffice to discourage him -
+Sours the national mood. That might suffice to discourage him -
 
 			   GEORGE PENDLETON
-To what? To bring this down? Not in
-a fight like this. This is to the
-death.
+To what? To bring this down? Not in a fight like this. This is to the death.
 
 			   FERNANDO WOOD
 It's gruesome!
 
-			   GEORGE PENDLETON
-			   (GETTING UPSET:)
-Are you despairing, or merely lazy?
-This fight is for The United States
-of America! Nothing "suffices". A
-rumor? Nothing! They're not lazy!
-They're busily buying votes! While
-we hope to be saved by "the
-national mood?!"
+			   GEORGE PENDLETON(GETTING UPSET:)
+Are you despairing, or merely lazy? This fight is for The United States of America! Nothing "suffices". A rumor? Nothing! They're not lazy! They're busily buying votes! While we hope to be saved by "the national mood?!"
 
-He looks over at Stevens, who's at his desk consulting with
-Ashley and Julian.
-65.
+He looks over at Stevens, who's at his desk consulting with Ashley and Julian.
 
 GEORGE PENDLETON (CONT'D)
 Before this blood is dry, when

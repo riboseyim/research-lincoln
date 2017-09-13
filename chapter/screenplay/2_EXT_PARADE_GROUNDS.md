@@ -1,13 +1,11 @@
 # EXT. PARADE GROUNDS ADJACENT TO THE WASHINGTON NAVY YARD, ANACOSTIA RIVER - NIGHT
 
-Rain and fog. Union Army companies are camped out across the grounds. Preparations are being made for the impending
-assault on the Confederate port of Wilmington, North Carolina.
+Rain and fog. Union Army companies are camped out across the grounds. Preparations are being made for the impending assault on the Confederate port of Wilmington, North Carolina.
 
-Two black soldiers stand before a bivouacked Negro unit: HAROLD GREEN, an infantryman in his late thirties, and IRA CLARK, a cavalryman in his early twenties. ABRAHAM LINCOLN sits on a bench facing Harold and Ira; his stovepipe hat is
-at his side.
+Two black soldiers stand before a bivouacked Negro unit: HAROLD GREEN, an infantryman in his late thirties, and IRA CLARK, a cavalryman in his early twenties. ABRAHAM LINCOLN sits on a bench facing Harold and Ira; his stovepipe hat is at his side.
 
 			   HAROLD GREEN
-So at Jenkins' Ferry, we decided warn't taking no reb prisoners.And we didn't leave a one of em alive. The ones of us that didn't die that day, we joined up with the 116th U.S. Colored, sir. From Camp Nelson Kentucky.
+So at Jenkins' Ferry, we decided warn't taking no reb prisoners. And we didn't leave a one of em alive. The ones of us that didn't die that day, we joined up with the 116th U.S. Colored, sir. From Camp Nelson Kentucky.
 
 			   LINCOLN
 What's your name, soldier?
@@ -19,12 +17,11 @@ Private Harold Green, sir.
 I'm Corporal Ira Clark, sir. Fifth Massachusetts Cavalry. We're waiting over there.
 He nods in the direction of his cavalry.
 
-IRA CLARK (CONT'D)
+				 IRA CLARK (CONT'D)
 We're leaving our horses behind, and shipping out with the 24th Infantry for the assault next week on Wilmington.
 
 			   LINCOLN
-(to Harold Green:)
-How long've you been a soldier?
+(to Harold Green:) How long've you been a soldier?
 
 			   HAROLD GREEN
 Two year, sir.
@@ -32,10 +29,8 @@ Two year, sir.
 			   LINCOLN
 Second Kansas Colored Infantry, they fought bravely at Jenkins' Ferry.
 
-HAROLD GREEN IRA CLARK
-That's right, sir. They killed a thousand rebel soldiers, sir. They were very brave.
-(hesitating, then) And making three dollars less each month than white soldiers.
-Harold Green is a little startled at Clark's bluntness.
+				 HAROLD GREEN IRA CLARK
+That's right, sir. They killed a thousand rebel soldiers, sir. They were very brave.(hesitating, then) And making three dollars less each month than white soldiers. Harold Green is a little startled at Clark's bluntness.
 
 			   HAROLD GREEN
 Us 2nd Kansas boys, whenever we fight now we -
@@ -89,28 +84,27 @@ Green laughs.
 
 TWO WHITE SOLDIERS have come up, two young kids, nervous and excited.
 
-FIRST WHITE SOLDIER LINCOLN
+				 FIRST WHITE SOLDIER LINCOLN
 President Lincoln, sir? Evening, boys.
 
-SECOND WHITE SOLDIER
-Damn! Damn!
-We, we saw you, um. We were at, at -
+				 SECOND WHITE SOLDIER
+Damn! Damn! We, we saw you, um. We were at, at -
 
-FIRST WHITE SOLDIER
+				 FIRST WHITE SOLDIER
 We was at Gettysburg!
 
-HAROLD GREEN SECOND WHITE SOLDIER
+				 HAROLD GREEN SECOND WHITE SOLDIER
 You boys fight at Gettysburg? DAMN I can't believe it's -
 
-FIRST WHITE SOLDIER (CONT'D)
+				 FIRST WHITE SOLDIER (CONT'D)
 (to Green, with mild CONTEMPT)
 Naw, we didn't fight there. We just signed up last month.We saw him two years ago at the cemetery dedication.
 
-SECOND WHITE SOLDIER
+				 SECOND WHITE SOLDIER
 Yeah, we heard you speak! We...
 DAMN DAMN DAMN! Uh, hey, how tall are you anyway?!
 
-FIRST WHITE SOLDIER
+				 FIRST WHITE SOLDIER
 Jeez, SHUT up!
 
 			   LINCOLN
@@ -119,31 +113,30 @@ Could you hear what I said?
 FIRST WHITE SOLDIER
 No, sir, not much, it was-
 
-SECOND WHITE SOLDIER
+				 SECOND WHITE SOLDIER
 (he recites, fast and  MECHANICALLY:)
 "Four score and seven years ago, our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal."
 
 			   LINCOLN
 That's good, thank you for -
 
-FIRST WHITE SOLDIER
+				 FIRST WHITE SOLDIER
 "Now we are engaged in a great civil war, testing whether that nation or any nation so conceived and so dedicated can long endure.We are, we are, we are met on a great battlefield of that war."
 
 			   LINCOLN
 Thank you, that's -
 
-SECOND WHITE SOLDIER
+				 ECOND WHITE SOLDIER
 "We have come to dedicate a portion of that field as a final resting place for those who here gave their lives that that nation might live. It is..."
 (He chokes up a little.)
 
-FIRST WHITE SOLDIER
+				 FIRST WHITE SOLDIER
 His uncles, they died on the second day of fighting.
 
-SECOND WHITE SOLDIER A VOICE (O.C.)
+				 SECOND WHITE SOLDIER A VOICE (O.C.)
 I know the last part. "It is, Company up! Move it out! uh, it is rather -"
 
-Soldiers all over the field rise up at the mustering of the troops. Names of regiments, brigades, divisions are called:
-all across the field, the men put out fires, put on knapsacks.
+Soldiers all over the field rise up at the mustering of the troops. Names of regiments, brigades, divisions are called: all across the field, the men put out fires, put on knapsacks.
 
 			   LINCOLN
 (to the two white SOLDIERS:) You fellas best find your company.
@@ -162,6 +155,8 @@ Then he stops, turns back, faces Lincoln, who watches him. A beat, and then, in 
 			   IRA CLARK
 "That we here highly resolve that these dead shall not have died in VAIN -- "
 
-Clark salutes Lincoln again, turns again and walks away.Lincoln watches him go. As he walks into the fog, Clark continues reciting in a powerful voice: IRA CLARK (CONT'D)
+Clark salutes Lincoln again, turns again and walks away.Lincoln watches him go. As he walks into the fog, Clark continues reciting in a powerful voice:
+				 IRA CLARK (CONT'D)
 " - That this nation, under God, shall have a new birth of freedom -- and that government of the people, by the people, for the people, shall not perish from the earth."
+
 Lincoln watches Clark until the fog's swallowed him up.

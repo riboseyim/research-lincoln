@@ -24,7 +24,6 @@ Based on Doris Kearns Goodwin’s best-selling biography, Team of Rivals: The Po
 ## About The Score
 In a career spanning almost six decades, John Williams has composed some of the most recognizable film scores in the history of motion pictures including Star Wars, Jaws, the Indiana Jones films, E.T. The Extra-Terrestrial, Schindler’s List and the first three Harry Potter films. Winner of twenty-one Grammy Awards, four Golden Globe Awards and five Academy Awards, Williams is easily the most recognized composer working in film today. He has a long association with Steven Spielberg, composing music for all but two of Spielberg’s feature films, most recently on the Academy Award -nominated scores for The Adventures of Tintin and Warhorse.
 
-- Track Listing:
 1. The People’s House
 2. The Purpose of the Amendment
 3. Getting Out the Vote
@@ -43,6 +42,13 @@ In a career spanning almost six decades, John Williams has composed some of the 
 16. The Peterson House and Finale
 17. With Malice Toward None (Piano Solo)
 
+- We Are Coming Father Abra'am [7 EXT. OUTSIDE THE TREASURY DEPARTMENT, WASHINGTON - MORNING](chapter/screenplay/7_EXT_OUTSIDE_THE_TREASURY_DEPARTMENT.md)
+
+We are coming, Father Abra'am,
+three hundred thousand more,
+From Mississippi's winding stream
+and from New England's shore...
+We leave our plows and workshops, our wives and children dear, With hearts too full for utterance, With but a silent tear.We're coming Father Abra'am..."
 
 ## 参考文献
 - [芝加哥交响乐团-专辑信息:《LINCOLN》](http://www.symphonystore.com/cd-williams-lincoln-soundtrack-williams-cso.html)

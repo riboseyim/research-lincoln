@@ -10,12 +10,9 @@ Lincoln draws a handwritten note from his hat and carefully
 unfolds it.
 
 			   LINCOLN
-"Lieutenant General Ulysses S.
-Grant, City Po# INT. I have read your
-words with interest."
+"Lieutenant General Ulysses S.Grant, City Po# INT. I have read your words with interest."
 
-Sam Beckwith transcribes Lincoln's words into code on a pad
-with a pencil.
+Sam Beckwith transcribes Lincoln's words into code on a pad with a pencil.
 
 			   LINCOLN (CONT'D)
 "I ask that, regardless of any

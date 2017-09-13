@@ -62,8 +62,7 @@ Lincoln closes his folio.
 			   MARY (CONT'D)
 You're going to try to get the amendment passed in the House of Representatives, before the term ends, before the Inauguration.
 
-			   LINCOLN
-			   (STANDING:)
+			   LINCOLN(STANDING:)
 Don't spend too much money on the flubdubs. Mary stands, goes up to him.
 
 			   MARY

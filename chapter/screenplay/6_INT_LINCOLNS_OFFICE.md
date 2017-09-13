@@ -6,7 +6,7 @@ Dozens of maps cover the walls and the crowded bookcases.
 
 Lincoln opens the door and enters to find his 10 year-old son
 
-LINCOLN
+						LINCOLN
 near the hearth, sleeping, sprawled on a very large military map. Lead toy soldiers are scattered across.
 
 A large mahogany box, imprinted ALEXANDER GARDNER STUDIOS, is open near Tad's head. The box contains large glass plates, each framed in wood; these are photographic negatives. Tad's
